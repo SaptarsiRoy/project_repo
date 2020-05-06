@@ -1,0 +1,1 @@
+Simple project for docker, jenkins and github integration
